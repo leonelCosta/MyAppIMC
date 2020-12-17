@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">MyAppIMC</string>
+    <string name="mainScreenTitulo">Calcule o seu</string>
+    <string name="mainScreenTitulo_bold">IMC</string>
+    <string name="mainScreenDescriptionText">IMC é a sigla para índice de massa corporal, uma ferramenta confiável que indica se a pessoa está dentro dos
+padrões de peso ideal para a sua altura. Quando esse índice está perto dos limites 18,5 (abaixo do peso) e 40
+ou acima (grau de obesidade elevado), são grandes os riscos para a saúde.
+Saber o seu IMC é importante para que você possa equilibrar a alimentação, controlando seu peso dentro de
+um limite seguro que garanta bem-estar.</string>
+
+    <string name="bt_Text">COMEÇAR</string>
+    <string name="bt_Calcular">CALCULAR</string>
+    <string name="bt_Voltar">Voltar</string>
+    <string name="txt_hit_edPeso">Digite o Peso em (Kg)</string>
+    <string name="txt_hit_edAltura">Digite a tua altura em (m)</string>
+    <string name="insertScreenTitulo">Insira os seus dados e deixe a calculadora fazer o resto.</string>
+
+    <string name="imcResultadoText">O teu IMC =</string>
+
+
+    <!-- String dos resultado do IMC Resultado -->
+    <string name="txtResultadoBaixoPeso">Estes valores ocorrem, normalmente,
+        em pessoas doentes, com transtornos de comportamento alimentar, como a anorexia,
+        ou em pessoas idosas. “Nestes casos, é necessária uma intervenção muito atenta,
+        não só para acompanhar o aumento de peso, mas sobretudo para reposição de carências
+        nutricionais normalmente existentes”, adianta Luísa Guimarães. Deverá, nesse sentido,
+        consultar um especialista.</string>
+
+    <string name="txtResultadoNormaPeso">Este escalão está “associado ao peso ideal, a uma maior longevidade,
+        menor incidência de doenças e a uma  apresentação estética mais atraente”, explica a
+        médica do Hospital Lusíadas Porto. Por isso, estes são os  valores de IMC mais recomendados
+        para uma vida saudável.</string>
+
+    <string name="txtResultadoExecessoPeso">Estes valores indicam que está com um peso acima do
+        ideal. Deverá consultar um especialista para que
+        corrija este desvio de forma progressiva, para um objetivo de peso pretendido,
+        com orientações adequadas ao seu caso. O “excesso de peso e a obesidade são
+        considerados uma doença crónica, com aumento progressivo da prevalência em
+        adultos, adolescentes e mesmo crianças, de forma epidémica”.</string>
+
+    <string name="txtResultadoObesidade1">Estes valores indicam alto
+        risco de doenças ligadas à obesidade, como o diabetes.</string>
+
+    <string name="txtResultadoObesidade2">Estes valores indicam grandes chances de problemas cardíacos.</string>
+
+    <string name="txtResultadoObesidade3">Estes valores indicam risco extremo de diabetes e problemas no coração.</string>
+
+
+
+
+
+
+</resources>
